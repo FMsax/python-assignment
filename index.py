@@ -24,7 +24,6 @@ class Appointment:
         self.doctor = doctor
         self.date = date
 
-# Initialize some sample data
 patients = [Patient(1, "Feranmi", 30, "Male", 70, 170, "09092139148")]
 doctors = [Doctor(1, "Dr. Seyi", "General Practitioner", "09087654321")]
 appointments = []
